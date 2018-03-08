@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="WebApplication4.Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="demo2.Index" %>
 
 <!DOCTYPE html>
 
@@ -8,6 +8,6 @@
     <title></title>
 </head>
 <body>
-    hi there
+    <b>hi there</b>
 </body>
 </html>
