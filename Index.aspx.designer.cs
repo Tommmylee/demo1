@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace demo2 {
+namespace WebApplication4 {
     
     
     public partial class Index {
